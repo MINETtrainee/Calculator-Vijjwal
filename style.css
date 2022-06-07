@@ -1,0 +1,53 @@
+table{
+    margin: auto;
+}
+.container{
+text-align: center;
+}
+body {
+  background-color: white;
+}
+button{
+    border-radius: 20px;
+    font-size: 40px;
+    background: #6699ee;
+    width: 82px;
+    height: 70px;
+    margin: 6px;
+    color: white;
+    border: 2px solid black;
+}
+input{
+    border-radius: 21px;
+    font-size:34px;
+    height: 35px;
+    width: 426px;
+    padding:15px;
+    border: 1px solid #6699ee;
+    outline: none;
+  
+}
+h1{
+    font-family:Verdana;
+   
+}
+#calc{
+    background: rgb(34, 88, 168);
+    padding-bottom: 10px;
+}
+#x{
+    font-size: 45px;
+    padding-bottom: 15px;
+}
+#func{
+    background: rgb(68, 69, 71);
+}
+#meranaam{
+    color: rgb(110, 106, 106);
+    margin-top: 30px;
+    text-align: center;
+    font-family:Arial;
+    font-size: small;
+}
+
+
